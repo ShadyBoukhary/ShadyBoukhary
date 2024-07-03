@@ -14,7 +14,7 @@ Passionate about Software Engineering, Compute Graphics, and Game Development
 
 ## Fun Details
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyBoukhary&layout=compact&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShadyBoukhary)](https://github.com/briceallard/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShadyBoukhary)](https://github.com/ShadyBoukhary/github-profile-trophy)
 
 ## Contact
 
