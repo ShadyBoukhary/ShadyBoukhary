@@ -10,7 +10,7 @@ Passionate about Software Engineering, Compute Graphics, and Game Development
 - Graphics Software Engineer @ [Apple](https://www.apple.com/)
 - Author @ [flutter_clean_architecture](https://pub.dev/packages/flutter_clean_architecture)
 
-⚡ Skills: GPU Functional Verification / Graphics / Unit3D / Dart / Flutter / Javascript / Typescript / Java / A lot more
+⚡ Skills: GPU Functional Verification / Graphics / Unity3D / Dart / Flutter / Javascript / Typescript / Java / A lot more
 
 ## Fun Details
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyBoukhary&layout=compact&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
